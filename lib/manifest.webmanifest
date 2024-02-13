@@ -1,7 +1,7 @@
 {
   "name": "Hello PWA",
   "short_name": "Hello",
-  "start_url": ".",
+  "start_url": "../",
   "display": "standalone",
   "background_color": "#4E526F",
   "theme_color": "#4E526F",
